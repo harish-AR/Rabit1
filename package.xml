@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>48.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>49.0</version>
     <types>
+        <members>A012378</members>
+        <members>A036</members>
+        <members>A1</members>
         <members>Test1</members>
         <name>ApexClass</name>
     </types>
